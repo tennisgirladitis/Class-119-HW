@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(184, 249, 215);
+}
+
+#score{
+    font-size: 20px;
+    float: left;
+    margin-left: auto;
+}
+
+#timer{
+    font-size: 20px;
+    float: right;
+    margin-left: auto;
+}
+
+#sketch_to_draw{
+    color: brown;
+    font-size: 20px;
+}
